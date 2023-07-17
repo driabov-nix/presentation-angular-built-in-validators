@@ -121,4 +121,4 @@ class: text-center
 
 # Thank You
 
-[Presentation](https://sli.dev) · [Live Example](https://stackblitz.com/edit/stackblitz-starters-jwqerb)
+[Presentation](https://github.com/driabov-nix/presentation-angular-built-in-validators) · [Live Example](https://stackblitz.com/edit/stackblitz-starters-jwqerb)
