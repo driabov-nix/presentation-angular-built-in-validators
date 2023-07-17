@@ -54,11 +54,6 @@ The last comment block of each slide will be treated as slide notes. It will be 
 - 🧑‍💻 Working with Angular for 6 years.
 - 🤹 Right now am a member of KTC team.
 - 🛠 Work a lot with Angular Material source code.
-- <a href="https://github.com/driabov-nix" target="_blank" alt="GitHub"
-    class="icon-btn !border-none">
-    <carbon-logo-github />
-    My github with all the materials for this talk here.
-  </a>
 <br>
 <br>
 
